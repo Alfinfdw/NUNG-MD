@@ -31,28 +31,28 @@ global.sig = 'https://instagram.com/drak_ipul123'
 global.syt = 'https://youtu.be/pwLZpdfO8AU'
 global.sgh = 'https://github.com/SaipulAnuar'
 global.sgc = 'https://chat.whatsapp.com/HAZ6yFgCafUAeDbNH33IrL'
-global.swa = 'wa.me/6287750278761'
+global.swa = 'wa.me/6285608468994'
 global.swb = 'https://'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
-global.pdana = '085731591203'
+global.pdana = '6285608468994'
 global.povo = '-'
-global.pgopay = '085731591203'
+global.pgopay = '6285608468994'
 global.ppulsa = '-'
 global.ppulsa2 = '-'
 global.psaweria = 'https://saweria.co/raraharsita2'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6287750278761'
-global.nomorown = '6287750278761'
-global.namebot = 'NungBootzラ'
-global.nameown = 'ᴹᴿ᭄ NungBootz×፝֟͜×'
+global.nomorbot = '6285608468994'
+global.nomorown = '6285608468994'
+global.namebot = 'AkuPadamuラ'
+global.nameown = 'ᴹᴿ᭄ AkuPadamu×፝֟͜×'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6287750278761', 'ᴹᴿ᭄ King Of Bear x NungBootz ×፝֟͜×', 'true']
+  ['6285608468994', 'ᴹᴿ᭄AkuPadamu ×፝֟͜×', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -103,14 +103,14 @@ global.bear = 'VBkM7rbU'
 
 
 /*============== WATERMARK ==============*/
-global.wm = 'NungBootzラ | By ᴹᴿ᭄ King Of Bear ×፝֟͜×' //Main Watermark
-global.wm2 = 'ᴹᴿ᭄ NungBootz ×፝֟͜×'
-global.wm3 = 'NungBootz| By ᴹᴿ᭄ King Of Bear ×፝֟͜×'
+global.wm = 'AkuPadamuラ | By ᴹᴿ᭄AkuPadamu ×፝֟͜×' //Main Watermark
+global.wm2 = 'ᴹᴿ᭄ AkuPadamu ×፝֟͜×'
+global.wm3 = 'AkuPadamu| By ᴹᴿ᭄ King Of Bear ×፝֟͜×'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `NungBootzラ | ʙʏ ${global.nameown}`
-global.author = 'ᴹᴿ᭄ NungBootz ×፝֟͜×' 
-global.packname = 'ᴹᴿ᭄ NungBootz ×፝֟͜×'
+global.titlebot = `AkuPadamuラ | ʙʏ ${global.nameown}`
+global.author = 'ᴹᴿ᭄ AkuPadamu ×፝֟͜×' 
+global.packname = 'ᴹᴿ᭄ AkuPadamu ×፝֟͜×'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
 global.ultahowner = 'November 4 2023'
 
