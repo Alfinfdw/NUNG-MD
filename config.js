@@ -52,7 +52,7 @@ global.nameown = 'ᴹᴿ᭄ AkuPadamu×፝֟͜×'
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285608468994', 'ᴹᴿ᭄AkuPadamu ×፝֟͜×', 'true']
+  ['6285608468994', 'ᴹᴿ᭄ karepmu ? ×፝֟͜×', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
